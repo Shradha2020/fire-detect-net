@@ -1,3 +1,4 @@
+#cmpe295A model
 _BASE_: "Base-Panoptic-FPN.yaml"
 MODEL:
   WEIGHTS: "detectron2://ImageNetPretrained/MSRA/R-50.pkl"
