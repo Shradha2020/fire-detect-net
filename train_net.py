@@ -18,7 +18,7 @@ from detectron2.evaluation import (
 from detectron2.projects.deeplab import build_lr_scheduler
 from detectron2.projects.panoptic_deeplab import (
     PanopticDeeplabDatasetMapper,
-    add_panoptic_deeplab_config,
+    add_panoptic_deeplab_config
 )
 from detectron2.solver import get_default_optimizer_params
 from detectron2.solver.build import maybe_add_gradient_clipping
