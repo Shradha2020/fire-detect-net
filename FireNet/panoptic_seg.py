@@ -20,7 +20,7 @@ from detectron2.projects.deeplab.loss import DeepLabCE
 from detectron2.structures import BitMasks, ImageList, Instances
 from detectron2.utils.registry import Registry
 
-from .post_processing import get_panoptic_segmentation
+#from .post_processing import get_panoptic_segmentation
 
 
 #Understanding
