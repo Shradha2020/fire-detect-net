@@ -1,1 +1,1 @@
-from .config import add_net_config
+from .config import add_firenet_config
